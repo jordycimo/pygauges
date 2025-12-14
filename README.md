@@ -1,5 +1,5 @@
-## PyGauges is a pygame frontend to convert data live from an OBD-II port to digital gauges.
-
+PyGauges is a pygame frontend to convert data live from an OBD-II port to digital gauges.
+==
 My stupid car has a single gauge that goes up when it ragebaits me with how little information my dashboard gives me.
 I wanted to solve the issue of not seeing the information I want to (temperature, oil pressure, coolant temperature, etc)
 by creating my own way to view this data.
